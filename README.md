@@ -12,3 +12,6 @@ System zbierania grzybów na serwer FiveM (ESX, ox_lib, ox_inventory)
 - [ox_target](https://github.com/overextended/ox_target)
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 - [Propy grzybów](https://shopfusion.fragmentor.io/product/6435925) -- Opcjonalnie!
+
+
+Leży mi na kompie od 2 lat to wrzucam ;p
